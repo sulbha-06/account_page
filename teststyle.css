@@ -1,0 +1,83 @@
+.mainDiv{
+    border-style: solid;
+    border-color:rgb(94, 169, 199);
+    border-collapse: collapse;
+    position: absolute;
+    align-content: center;
+    margin-left: 415;
+    margin-top: 50px;
+    width: 450px;
+}
+
+.subHeader{
+    font-size: small;
+    font-weight: lighter;
+    color: grey;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+    font-weight: 200;
+    font-family: serif;
+  }
+  .trRight{
+    text-align: right;
+
+  }
+  .centerText{
+      text-align: center;
+  }
+  .subDiv{
+    height: 39px;
+    text-align: center;
+    padding-top: 19px;
+    font-weight: 700;
+    font-family: Arial, sans-serif;
+
+  }
+.redFont{
+    color: red;
+}
+.greenFont{
+    color: green;
+}
+.subtdfont{
+    font-size: 16px;
+    font-weight: 500;
+}
+.blueFont{
+    color: blue;
+}
+.sansserif {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight:700;
+  }
+  .subRow{
+    color: grey;
+  }
+  .head1{
+    background-color:#e0e0e0;
+    width: 198px;
+  }
+  .head2{
+    background-color:#ededed;
+  }
+  .tdFont{
+    font-size: 20px;
+    font-weight: 600;
+  }
+  tr.border_bottom td {
+    border-bottom:2pt solid #d4d4d4;
+  }
