@@ -1,0 +1,120 @@
+.container {
+    text-align: center;
+}
+
+.main-square {
+    width: 450px;
+    height: auto;
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(14, 145, 197);
+    border-width: thick;
+    border-collapse: collapse;
+}
+
+.subHeader {
+    font-size: small;
+    font-weight: lighter;
+    color: grey;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 16px;
+    font-weight: 200;
+    font-family: serif;
+}
+
+.trRight {
+    text-align: right;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.subDiv {
+    height: 39px;
+    text-align: center;
+    padding-top: 19px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.redFont {
+    color: #CA224F;
+}
+
+.greenFont {
+    color: rgba(7, 148, 66, 0.966);
+}
+
+.subtdfont {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.blueFont {
+    color: rgb(5, 137, 189);
+}
+
+.sansserif {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.subRow {
+    color: grey;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.head1 {
+    background-color: #e0e0e0;
+    width: 198px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #696969;
+    vertical-align: bottom;
+}
+
+.head2 {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #696969;
+    vertical-align: bottom;
+}
+
+.tdFont {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+tr.border_bottom td {
+    border-bottom: 2pt solid #d4d4d4;
+}
+
+.arrow {
+    vertical-align: sub;
+    font-weight: 700;
+    font-family: sans-serif;
+}
